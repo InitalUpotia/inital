@@ -35,10 +35,10 @@
     <loc>https://initalUpotia/inital/p/testbolg/</loc>
     <lastmod>2025-10-06T21:36:01+08:00</lastmod>
   </url><url>
-    <loc>https://initalUpotia/inital/page/</loc>
+    <loc>https://initalUpotia/inital/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://initalUpotia/inital/archives/</loc>
+    <loc>https://initalUpotia/inital/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://initalUpotia/inital/categories/</loc>
@@ -58,6 +58,10 @@
                 href="https://initalUpotia/inital/categories/"
                 />
   </url><url>
+    <loc>https://initalUpotia/inital/links/</loc>
+  </url><url>
+    <loc>https://initalUpotia/inital/search/</loc>
+  </url><url>
     <loc>https://initalUpotia/inital/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -76,9 +80,5 @@
                 />
   </url><url>
     <loc>https://initalUpotia/inital/%E5%85%B3%E4%BA%8E/</loc>
-  </url><url>
-    <loc>https://initalUpotia/inital/%E9%93%BE%E6%8E%A5/</loc>
-  </url><url>
-    <loc>https://initalUpotia/inital/search/</loc>
   </url>
 </urlset>
