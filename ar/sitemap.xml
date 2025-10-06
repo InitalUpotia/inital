@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://initalUpotia/inital/ar/categories/</loc>
+    <loc>/ar/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://initalUpotia/inital/en/categories/"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://initalUpotia/inital/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://initalUpotia/inital/ar/categories/"
+                href="/ar/categories/"
                 />
   </url><url>
-    <loc>https://initalUpotia/inital/ar/tags/</loc>
+    <loc>/ar/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://initalUpotia/inital/en/tags/"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://initalUpotia/inital/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://initalUpotia/inital/ar/tags/"
+                href="/ar/tags/"
                 />
   </url><url>
-    <loc>https://initalUpotia/inital/ar/</loc>
+    <loc>/ar/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://initalUpotia/inital/en/"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://initalUpotia/inital/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://initalUpotia/inital/ar/"
+                href="/ar/"
                 />
   </url>
 </urlset>
