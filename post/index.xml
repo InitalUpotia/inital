@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <copyright>iNITAL_</copyright>
-    <lastBuildDate>Mon, 06 Oct 2025 23:30:54 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 00:10:06 +0800</lastBuildDate>
     <atom:link href="https://initalUpotia/inital/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Deploy</title>
+      <link>https://initalUpotia/inital/p/test-deploy/</link>
+      <pubDate>Tue, 07 Oct 2025 00:10:06 +0800</pubDate>
+      <guid>https://initalUpotia/inital/p/test-deploy/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Deploy Test</title>
       <link>https://initalUpotia/inital/p/deploy-test/</link>
