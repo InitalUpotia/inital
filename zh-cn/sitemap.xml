@@ -2,80 +2,80 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://initalUpotia/inital/</loc>
     <lastmod>2025-10-07T00:10:06+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://initalUpotia/inital/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="/ar/"
+                href="https://initalUpotia/inital/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/"
+                href="https://initalUpotia/inital/"
                 />
   </url><url>
-    <loc>/post/</loc>
+    <loc>https://initalUpotia/inital/post/</loc>
     <lastmod>2025-10-07T00:10:06+08:00</lastmod>
   </url><url>
-    <loc>/p/test-deploy/</loc>
+    <loc>https://initalUpotia/inital/p/test-deploy/</loc>
     <lastmod>2025-10-07T00:10:06+08:00</lastmod>
   </url><url>
-    <loc>/p/deploy-test/</loc>
+    <loc>https://initalUpotia/inital/p/deploy-test/</loc>
     <lastmod>2025-10-06T23:30:54+08:00</lastmod>
   </url><url>
-    <loc>/p/testbolg/</loc>
+    <loc>https://initalUpotia/inital/p/testbolg/</loc>
     <lastmod>2025-10-06T21:36:01+08:00</lastmod>
   </url><url>
-    <loc>/archives/</loc>
+    <loc>https://initalUpotia/inital/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/page/</loc>
+    <loc>https://initalUpotia/inital/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://initalUpotia/inital/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://initalUpotia/inital/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="/ar/categories/"
+                href="https://initalUpotia/inital/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/categories/"
+                href="https://initalUpotia/inital/categories/"
                 />
   </url><url>
-    <loc>/links/</loc>
+    <loc>https://initalUpotia/inital/links/</loc>
   </url><url>
-    <loc>/search/</loc>
+    <loc>https://initalUpotia/inital/search/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://initalUpotia/inital/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://initalUpotia/inital/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="/ar/tags/"
+                href="https://initalUpotia/inital/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/tags/"
+                href="https://initalUpotia/inital/tags/"
                 />
   </url><url>
-    <loc>/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://initalUpotia/inital/%E5%85%B3%E4%BA%8E/</loc>
   </url>
 </urlset>

@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Example Site</title>
-    <link>/en/</link>
+    <link>https://initalUpotia/inital/en/</link>
     <description>Recent content on Example Site</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>iNITAL_</copyright>
-    <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://initalUpotia/inital/en/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

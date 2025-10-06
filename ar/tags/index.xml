@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on موقع تجريبي</title>
-    <link>/ar/tags/</link>
+    <link>https://initalUpotia/inital/ar/tags/</link>
     <description>Recent content in Tags on موقع تجريبي</description>
     <generator>Hugo</generator>
     <language>ar</language>
     <copyright>iNITAL_</copyright>
-    <atom:link href="/ar/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://initalUpotia/inital/ar/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on iNITAL_&#39;s Blog</title>
-    <link>/post/</link>
+    <link>https://initalUpotia/inital/post/</link>
     <description>Recent content in Posts on iNITAL_&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <copyright>iNITAL_</copyright>
     <lastBuildDate>Tue, 07 Oct 2025 00:10:06 +0800</lastBuildDate>
-    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://initalUpotia/inital/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test Deploy</title>
-      <link>/p/test-deploy/</link>
+      <link>https://initalUpotia/inital/p/test-deploy/</link>
       <pubDate>Tue, 07 Oct 2025 00:10:06 +0800</pubDate>
-      <guid>/p/test-deploy/</guid>
+      <guid>https://initalUpotia/inital/p/test-deploy/</guid>
       <description></description>
     </item>
     <item>
       <title>Deploy Test</title>
-      <link>/p/deploy-test/</link>
+      <link>https://initalUpotia/inital/p/deploy-test/</link>
       <pubDate>Mon, 06 Oct 2025 23:30:54 +0800</pubDate>
-      <guid>/p/deploy-test/</guid>
+      <guid>https://initalUpotia/inital/p/deploy-test/</guid>
       <description>&lt;h1 id=&#34;测试同步&#34;&gt;测试同步&lt;/h1&gt;</description>
     </item>
     <item>
       <title>TestBolg</title>
-      <link>/p/testbolg/</link>
+      <link>https://initalUpotia/inital/p/testbolg/</link>
       <pubDate>Mon, 06 Oct 2025 21:36:01 +0800</pubDate>
-      <guid>/p/testbolg/</guid>
+      <guid>https://initalUpotia/inital/p/testbolg/</guid>
       <description>&lt;h1 id=&#34;hello-wofld&#34;&gt;Hello Wofld！&lt;/h1&gt;</description>
     </item>
   </channel>

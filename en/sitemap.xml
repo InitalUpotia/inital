@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/en/categories/</loc>
+    <loc>https://initalUpotia/inital/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/categories/"
+                href="https://initalUpotia/inital/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="/ar/categories/"
+                href="https://initalUpotia/inital/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://initalUpotia/inital/en/categories/"
                 />
   </url><url>
-    <loc>/en/</loc>
+    <loc>https://initalUpotia/inital/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/"
+                href="https://initalUpotia/inital/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="/ar/"
+                href="https://initalUpotia/inital/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://initalUpotia/inital/en/"
                 />
   </url><url>
-    <loc>/en/tags/</loc>
+    <loc>https://initalUpotia/inital/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/tags/"
+                href="https://initalUpotia/inital/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="/ar/tags/"
+                href="https://initalUpotia/inital/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://initalUpotia/inital/en/tags/"
                 />
   </url>
 </urlset>
