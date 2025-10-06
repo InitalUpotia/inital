@@ -2,74 +2,83 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/inital/</loc>
-    <lastmod>2025-10-06T21:36:01+08:00</lastmod>
+    <loc>https://initalUpotia/inital/</loc>
+    <lastmod>2025-10-07T00:10:06+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/inital/en/"
+                href="https://initalUpotia/inital/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/inital/ar/"
+                href="https://initalUpotia/inital/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/inital/"
+                href="https://initalUpotia/inital/"
                 />
   </url><url>
-    <loc>http://localhost:1313/inital/post/</loc>
+    <loc>https://initalUpotia/inital/posts/</loc>
+    <lastmod>2025-10-07T00:10:06+08:00</lastmod>
+  </url><url>
+    <loc>https://initalUpotia/inital/posts/test-deploy/</loc>
+    <lastmod>2025-10-07T00:10:06+08:00</lastmod>
+  </url><url>
+    <loc>https://initalUpotia/inital/p/deploy-test/</loc>
+    <lastmod>2025-10-06T23:30:54+08:00</lastmod>
+  </url><url>
+    <loc>https://initalUpotia/inital/post/</loc>
+    <lastmod>2025-10-06T23:30:54+08:00</lastmod>
+  </url><url>
+    <loc>https://initalUpotia/inital/p/testbolg/</loc>
     <lastmod>2025-10-06T21:36:01+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/inital/p/testbolg/</loc>
-    <lastmod>2025-10-06T21:36:01+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/inital/page/</loc>
+    <loc>https://initalUpotia/inital/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/inital/archives/</loc>
+    <loc>https://initalUpotia/inital/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/inital/categories/</loc>
+    <loc>https://initalUpotia/inital/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/inital/en/categories/"
+                href="https://initalUpotia/inital/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/inital/ar/categories/"
+                href="https://initalUpotia/inital/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/inital/categories/"
+                href="https://initalUpotia/inital/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/inital/tags/</loc>
+    <loc>https://initalUpotia/inital/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/inital/en/tags/"
+                href="https://initalUpotia/inital/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/inital/ar/tags/"
+                href="https://initalUpotia/inital/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/inital/tags/"
+                href="https://initalUpotia/inital/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/inital/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://initalUpotia/inital/%E5%85%B3%E4%BA%8E/</loc>
   </url><url>
-    <loc>http://localhost:1313/inital/%E9%93%BE%E6%8E%A5/</loc>
+    <loc>https://initalUpotia/inital/%E9%93%BE%E6%8E%A5/</loc>
   </url><url>
-    <loc>http://localhost:1313/inital/search/</loc>
+    <loc>https://initalUpotia/inital/search/</loc>
   </url>
 </urlset>

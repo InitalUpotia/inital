@@ -1,21 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Posts on iNITAL_&#39;s Blog</title>
-        <link>http://localhost:1313/inital/post/</link>
-        <description>Recent content in Posts on iNITAL_&#39;s Blog</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>zh-cn</language>
-        <copyright>iNITAL_</copyright>
-        <lastBuildDate>Mon, 06 Oct 2025 21:36:01 +0800</lastBuildDate><atom:link href="http://localhost:1313/inital/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>TestBolg</title>
-        <link>http://localhost:1313/inital/p/testbolg/</link>
-        <pubDate>Mon, 06 Oct 2025 21:36:01 +0800</pubDate>
-        
-        <guid>http://localhost:1313/inital/p/testbolg/</guid>
-        <description>&lt;h1 id=&#34;hello-wofld&#34;&gt;Hello Wofld！
-&lt;/h1&gt;</description>
-        </item>
-        
-    </channel>
+  <channel>
+    <title>Posts on iNITAL_&#39;s Blog</title>
+    <link>https://initalUpotia/inital/post/</link>
+    <description>Recent content in Posts on iNITAL_&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <copyright>iNITAL_</copyright>
+    <lastBuildDate>Mon, 06 Oct 2025 23:30:54 +0800</lastBuildDate>
+    <atom:link href="https://initalUpotia/inital/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deploy Test</title>
+      <link>https://initalUpotia/inital/p/deploy-test/</link>
+      <pubDate>Mon, 06 Oct 2025 23:30:54 +0800</pubDate>
+      <guid>https://initalUpotia/inital/p/deploy-test/</guid>
+      <description>&lt;h1 id=&#34;测试同步&#34;&gt;测试同步&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>TestBolg</title>
+      <link>https://initalUpotia/inital/p/testbolg/</link>
+      <pubDate>Mon, 06 Oct 2025 21:36:01 +0800</pubDate>
+      <guid>https://initalUpotia/inital/p/testbolg/</guid>
+      <description>&lt;h1 id=&#34;hello-wofld&#34;&gt;Hello Wofld！&lt;/h1&gt;</description>
+    </item>
+  </channel>
 </rss>

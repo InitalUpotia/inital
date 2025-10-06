@@ -2,19 +2,19 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://localhost:1313/inital/zh-cn/sitemap.xml</loc>
+    <loc>https://initalUpotia/inital/zh-cn/sitemap.xml</loc>
     
-      <lastmod>2025-10-06T21:36:01+08:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://localhost:1313/inital/en/sitemap.xml</loc>
+      <lastmod>2025-10-07T00:10:06+08:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://localhost:1313/inital/ar/sitemap.xml</loc>
+    <loc>https://initalUpotia/inital/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://initalUpotia/inital/ar/sitemap.xml</loc>
     
   </sitemap>
   

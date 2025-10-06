@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/inital/ar/categories/</loc>
+    <loc>https://initalUpotia/inital/ar/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/inital/en/categories/"
+                href="https://initalUpotia/inital/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/inital/categories/"
+                href="https://initalUpotia/inital/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/inital/ar/categories/"
+                href="https://initalUpotia/inital/ar/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/inital/ar/tags/</loc>
+    <loc>https://initalUpotia/inital/ar/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/inital/en/tags/"
+                href="https://initalUpotia/inital/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/inital/tags/"
+                href="https://initalUpotia/inital/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/inital/ar/tags/"
+                href="https://initalUpotia/inital/ar/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/inital/ar/</loc>
+    <loc>https://initalUpotia/inital/ar/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/inital/en/"
+                href="https://initalUpotia/inital/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/inital/"
+                href="https://initalUpotia/inital/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/inital/ar/"
+                href="https://initalUpotia/inital/ar/"
                 />
   </url>
 </urlset>
